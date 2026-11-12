@@ -5,7 +5,7 @@
 ### **AI & Deep Learning Engineer | Systems & Full-Stack AI Builder**
 **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khagesh%20Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khagesh%20Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khagesh-ranjan-986721324/)
 [![GitHub](https://img.shields.io/badge/GitHub-khageshranjan23--pixel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khageshranjan23-pixel)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khageshranjan23@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-success?style=for-the-badge)](#-get-in-touch)
@@ -196,7 +196,7 @@ I am open to discussions on **AI Engineering, Deep Learning Research, ML Infrast
 
 - **Email:** [khageshranjan23@gmail.com](mailto:khageshranjan23@gmail.com)
 - **GitHub:** [@khageshranjan23-pixel](https://github.com/khageshranjan23-pixel)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com)
+- **LinkedIn:** [Khagesh Ranjan](https://www.linkedin.com/in/khagesh-ranjan-986721324/)
 - **Location:** India 🇮🇳 (Open to Remote, Hybrid, & Relocation)
 
 <div align="center">
